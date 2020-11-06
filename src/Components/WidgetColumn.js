@@ -15,6 +15,7 @@ function WidgetColumn(props) {
 		dataSource: {
 			// Chart Configuration
 			chart: {
+				palettecolors: "#839e96",
 				bgColor: "#101321",
 				theme: "fusion", //Set the theme for your chart
 			},
